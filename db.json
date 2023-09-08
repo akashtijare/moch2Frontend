@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "full-name": "akash",
+      "email": "akash@gmail.com",
+      "password": "aa"
+    },
+    {
+      "id": 2,
+      "full-name": "bkash",
+      "email": "bkash@gmail.com",
+      "password": "bb"
+    },
+    {
+      "id": 3,
+      "full-name": "ckash",
+      "email": "ckash@gmail.com",
+      "password": "cc"
+    },
+    {
+      "fullName": "Akash prakashrao Tijare",
+      "email": "a@gmail.com",
+      "password": "aa",
+      "id": 4
+    },
+    {
+      "fullName": "a",
+      "email": "a@gmail.com",
+      "password": "aa",
+      "id": 5
+    }
+  ],
+  "usersData": [
+    {
+      "type": "",
+      "category": "Housing",
+      "amount": "858",
+      "date": "2023-09-12",
+      "id": 3
+    },
+    {
+      "type": "Income",
+      "category": "Gifts",
+      "amount": "3",
+      "date": "2023-09-05",
+      "id": 4
+    }
+  ]
+}

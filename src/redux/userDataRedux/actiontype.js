@@ -1,0 +1,18 @@
+export const GET_LOADING="GET_LOADING";
+export const GET_PRODUCTS="GET_PRODUCTS";
+export const GET_ERROR="GET_ERROR";
+
+
+export const POST_PRODUCTS="POST_PRODUCTS";
+export const POST_LOADING="POST_LOADING";
+export const POST_ERROR="POST_ERROR";
+
+
+export const EDIT_PRODUCTS="EDIT_PRODUCTS";
+export const EDIT_LOADING="EDIT_LOADING";
+export const EDIT_ERROR="EDIT_ERROR";
+
+
+export const DELETE_PRODUCTS="DELETE_PRODUCTS";
+export const DELETE_LOADING="DELETE_LOADING";
+export const DELETE_ERROR="DELETE_ERROR";
